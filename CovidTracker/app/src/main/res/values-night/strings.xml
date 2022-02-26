@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lgm">LGM</string>
+    <string name="statename">StateName</string>
+    <string name="cityname">Cityname</string>
+    <string name="active">Active</string>
+    <string name="delta_cases">DELTA CASES</string>
+    <string name="confirm">Confirm</string>
+    <string name="deceased">Deceased</string>
+    <string name="recovered">Recovered</string>
+</resources>

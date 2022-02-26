@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271363326640",
+    "project_id": "lgm-facedetection",
+    "storage_bucket": "lgm-facedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271363326640:android:562e277fe44e8e4549b175",
+        "android_client_info": {
+          "package_name": "com.lgm.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271363326640-atkr6n71uhgpnrv0vs0n6kn9ibspkqg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNKiyRK9Jp_4Lv-lm43B7IaWfNufZWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271363326640-atkr6n71uhgpnrv0vs0n6kn9ibspkqg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
